@@ -1,0 +1,9 @@
+{
+  "name": "CSS-Fullwidth-Slider",
+  "version": "0.0.2",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
